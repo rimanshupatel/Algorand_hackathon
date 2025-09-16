@@ -215,19 +215,4 @@ Aelys Copilot integrates with **26 bitsCrunch UnleashNFTs API endpoints** to pro
 
 ---
 
-## 👨‍💻 Project Credits
-
-Built for **bitsCrunch x AI Builders Hack 2025**  
-**Developer:** Nikhil Raikwar  
-
----
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE).
-
-Thank you for exploring Aelys Copilot—your next-gen AI partner for NFTs and Web3 analytics.
-
----
-
-*Feel free to reach out for collaboration, feature requests, or feedback!*
 
