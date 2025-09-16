@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1529" height="688" alt="imagess" src="https://github.com/user-attachments/assets/f3cae2c5-a70d-4a67-8359-a418a50058bf" />
+<!-- <img width="1529" height="688" alt="imagess" src="https://github.com/user-attachments/assets/f3cae2c5-a70d-4a67-8359-a418a50058bf" /> -->
 
 # **Aelys Copilot | Powered by bitsCrunch APIs**
 
