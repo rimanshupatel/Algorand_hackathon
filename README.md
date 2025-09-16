@@ -17,13 +17,7 @@ Built for clarity, speed, and depth, Aelys allows users to connect wallets secur
 
 ---
 
-## 🏗️ Project Details
 
-**Created for:** bitsCrunch x AI Builders Hack 2025  
-**Developer:** Nikhil Raikwar  
-**GitHub / Source:** [Nikhil Raikwar](https://github.com/NikhilRaikwar/)
-
----
 
 ## ✨ Features
 
